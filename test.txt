@@ -1,4 +1,5 @@
-http://facebook.com
-http://incorrectUrl
-http://google.com
-http://twitter.com
+https://google.com
+https://yahoo.com
+https://bing.com
+https://duckduckgo.com
+https://yandex.com
